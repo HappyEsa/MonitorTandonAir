@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "600516291692",
+    "firebase_url": "https://ultrasonikwaterlevel-default-rtdb.firebaseio.com",
+    "project_id": "ultrasonikwaterlevel",
+    "storage_bucket": "ultrasonikwaterlevel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600516291692:android:af1b5637936aa208ce3c49",
+        "android_client_info": {
+          "package_name": "com.example.fluidlevelcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600516291692-h04p3tq8533lc1g18ua3k7u0k851e8ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCReFzkp2GhylaubIEPAdATVjLCzC6t-TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600516291692-h04p3tq8533lc1g18ua3k7u0k851e8ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600516291692:android:fd811cd6b23f7366ce3c49",
+        "android_client_info": {
+          "package_name": "com.example.monitoringvolumeairtandon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600516291692-h04p3tq8533lc1g18ua3k7u0k851e8ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCReFzkp2GhylaubIEPAdATVjLCzC6t-TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600516291692-h04p3tq8533lc1g18ua3k7u0k851e8ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
